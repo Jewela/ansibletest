@@ -2,4 +2,4 @@
 
 We are testing git repository
 
-Our firs chagne
+Our first change
